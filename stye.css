@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* custom background + text color */
+body {
+  background: #000000 !important;
+  color: #ffffff !important;
+}
